@@ -1,0 +1,255 @@
+.netlogo{
+
+
+    width:100px;
+}
+.apply_btn{
+background-color:black !important;
+color:white  !important;
+border-color:white !important;
+font-weight: bold;
+}
+
+.login_btn
+{
+    color: rgb(255, 255, 255)  !important;
+    border-color: transparent !important;
+    background-color: rgb(229, 9, 20)  !important;
+    font-weight: bold;
+}
+.bg_nav{
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(22, 22, 22) 100%);
+  
+
+}
+
+.postitionss{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(22, 22, 22) 100%) !important;
+
+width: 100%;
+
+left: 0;
+top: 0;
+position: fixed !important;
+    z-index: 1;
+}
+.bg_dv{
+    width: 100%;
+    display: flex;
+    padding: 128px 16px 48px 16px;
+    background: rgb(15, 15, 15);
+    margin-top: -80px;
+    flex-direction: column;
+    background-size: 100%;
+    background-image: url(../images/background.png);
+    background-repeat: repeat-y;
+    margin-left:0px !important; 
+}
+.nvg_clr{
+    color:white  !important;
+    font-size:13px;
+    font-weight:700;
+}
+.navbar-toggler{
+    background: rgb(5, 5, 5) !important;
+    
+}
+.nv_icn{
+
+    color: black !important;
+}
+.navbar-light .navbar-toggler {
+
+    border-color: rgba(49, 222, 54, 0.3);
+  
+  }
+
+  .banen{
+    width: 630px !important;
+  }
+
+  .search_boc{
+    
+    background:transparent !important;
+    font-size: 14px !important;
+    color: white !important;
+    border-left:none !important;
+  }
+
+  .form_dv{
+
+    display: flex !important;
+  }
+  .web_dv{
+    background-color: black;
+  }
+  .heang{
+    color:rgba(255, 255, 255, 0.9);
+    font-size:24px;
+  }
+
+  .stri{
+    color:rgba(255, 255, 255, 0.9);
+  }
+
+  .bttnns{
+
+    background: #4e4e4e !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight:bold !important;
+    border-color: #4e4e4e !important;
+  }
+  .hrr{
+
+    color:white !important;
+    background-color: white !important;
+  }
+
+  .crd_wdth{
+width: 100% !important;
+border:none !important;
+  }
+
+  .dvv{
+    transition: transform .6s !important;
+    padding: 6px !important;
+  }
+
+
+  
+.dvv:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+}
+
+  .crd_dv_ttx{
+
+    background:black !important;
+    color:rgba(255, 255, 255, 0.9) !important;
+    font-size:13px;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+   
+   column-gap: 10px;
+    padding: 10px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto;
+     
+     column-gap: 10px;
+      padding: 10px;
+    }
+
+
+/* Safari 6.1+ */
+div#dtlll   {-webkit-order: 2;}
+
+div#mmmg  {-webkit-order: 1;}
+
+/* Standard syntax */
+div.dtlll   {order: 2;}
+
+div#mmmg  {order: 1;}
+
+
+  }
+
+  @media only screen and (min-width: 600px) {
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+     
+     column-gap: 10px;
+      padding: 10px;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+     
+     column-gap: 10px;
+      padding: 10px;
+    }
+  }
+
+  @media only screen and (min-width: 1200px) {
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto auto auto;
+     
+     column-gap: 10px;
+      padding: 10px;
+    }
+
+  
+
+  }
+
+  
+  
+  a.copywrite{
+    color:red !important;
+    text-decoration:none !important;
+    font-weight: bold !important;
+  }
+
+  .web_coordv{
+
+    backdrop-filter: blur(200px) !important;
+    background: linear-gradient(rgb(22, 22, 22) 5.15%, rgb(17 1 1 / 81%) 100%) !important;
+  }
+
+  .left_dv{
+
+    background: black !important;
+    color:white !important;
+  }
+  .title_wd{
+    color:white !important;
+    font-weight: bold !important;
+  }
+  .sub_title{
+    color:white !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+  }
+
+  .det_ttl{
+    font-size:12px !important;
+    color:rgba(255, 255, 255, 0.9) !important;
+  }
+
+  .dtlls{
+
+    font-size: 14px !important;
+    color:rgba(255, 255, 255, 0.9) !important;
+  }
+
+  .btnnn{
+   
+    background: transparent !important;
+    border-color: red !important;
+    font-size: 10px !important;
+
+  }
+
+
+
+
+  @media only screen and (max-width: 600px) {
+    .immd{
+      width: 100% !important;
+    }
+  }
+.bbbbbbttt{
+  background:transparent !important;
+}
